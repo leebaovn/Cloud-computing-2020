@@ -1,0 +1,21 @@
+[debug] [2020-10-27T12:09:28.434Z] ----------------------------------------------------------------------
+[debug] [2020-10-27T12:09:28.437Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting:github
+[debug] [2020-10-27T12:09:28.437Z] CLI Version:   8.12.0
+[debug] [2020-10-27T12:09:28.437Z] Platform:      win32
+[debug] [2020-10-27T12:09:28.437Z] Node Version:  v12.13.0
+[debug] [2020-10-27T12:09:28.448Z] Time:          Tue Oct 27 2020 19:09:28 GMT+0700 (Indochina Time)
+[debug] [2020-10-27T12:09:28.449Z] ----------------------------------------------------------------------
+[debug] [2020-10-27T12:09:28.449Z] 
+[debug] [2020-10-27T12:09:28.458Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-27T12:09:28.458Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\private\Dev\bao\Cloud-computing-2020
+
